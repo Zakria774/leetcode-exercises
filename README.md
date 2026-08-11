@@ -8,6 +8,7 @@ Doing DSA qs for practice and keeping track
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Zakria774/leetcode-exercises/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Zakria774/leetcode-exercises/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +51,12 @@ Doing DSA qs for practice and keeping track
 | [0111-minimum-depth-of-binary-tree](https://github.com/Zakria774/leetcode-exercises/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Zakria774/leetcode-exercises/tree/master/0112-path-sum) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Zakria774/leetcode-exercises/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Zakria774/leetcode-exercises/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Zakria774/leetcode-exercises/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
