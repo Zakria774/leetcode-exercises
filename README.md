@@ -8,6 +8,7 @@ Doing DSA qs for practice and keeping track
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Zakria774/leetcode-exercises/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Zakria774/leetcode-exercises/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Zakria774/leetcode-exercises/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -54,9 +55,19 @@ Doing DSA qs for practice and keeping track
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Zakria774/leetcode-exercises/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Zakria774/leetcode-exercises/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Zakria774/leetcode-exercises/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Zakria774/leetcode-exercises/tree/master/0088-merge-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Zakria774/leetcode-exercises/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Zakria774/leetcode-exercises/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
